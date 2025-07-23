@@ -1,3 +1,11 @@
+## 🔖 Version 1.0.0
+
+Initial stable release with:
+- Dark theme toggle
+- Accessibility fixes (text contrast)
+- Responsive layout
+
+
 Dark Theme Toggle Feature
 This project includes a dark theme toggle that allows users to switch between light and dark modes.
 
